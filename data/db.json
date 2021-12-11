@@ -1,0 +1,39 @@
+{
+    "trips": [{
+            "title": "2 night stay in Venice",
+            "price": "$195",
+            "id": "1",
+            "loc": "Europe"
+        },
+        {
+            "title": "3 night stay in Venice",
+            "price": "$1295",
+            "id": "2",
+            "loc": "Europe"
+        },
+        {
+            "title": "4 night stay in Venice",
+            "price": "$295",
+            "id": "3",
+            "loc": "Africa"
+        },
+        {
+            "title": "5 night stay in Venice",
+            "price": "$1195",
+            "id": "4",
+            "loc": "America"
+        },
+        {
+            "title": "5 night stay in Venice",
+            "price": "$1195",
+            "id": "5",
+            "loc": "America"
+        },
+        {
+            "title": "5 night stay in Venice",
+            "price": "$1195",
+            "id": "6",
+            "loc": "America"
+        }
+    ]
+}
